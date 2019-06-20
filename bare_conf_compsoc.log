@@ -1,0 +1,1119 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.6.15)  20 JUN 2019 15:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**bare_conf_compsoc.tex
+(./bare_conf_compsoc.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 9 language(s) loaded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using IEEE Computer Society mode.
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.01874> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5.01874> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.02625> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7.02625> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.03> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8.03> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9.03374> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9.03374> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.03749> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.03749> not available
+
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11.04124> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11.04124> not available
+
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12.045> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12.045> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.06374> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17.06374> not available
+
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.075> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20.075> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.09> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24.09> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) (/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\MT@toks=\toks16
+\MT@count=\count94
+LaTeX Info: Redefining \textls on input line 766.
+\MT@outer@kern=\dimen126
+LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
+\MT@listname@count=\count95
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip44
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen127
+\lightrulewidth=\dimen128
+\cmidrulewidth=\dimen129
+\belowrulesep=\dimen130
+\belowbottomsep=\dimen131
+\aboverulesep=\dimen132
+\abovetopsep=\dimen133
+\cmidrulesep=\dimen134
+\cmidrulekern=\dimen135
+\defaultaddspace=\dimen136
+\@cmidla=\count96
+\@cmidlb=\count97
+\@aboverulesep=\dimen137
+\@belowrulesep=\dimen138
+\@thisruleclass=\count98
+\@lastruleclass=\count99
+\@thisrulewidth=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen142
+\captionmargin@=\dimen143
+\captionwidth=\dimen144
+\caption@tempdima=\dimen145
+\caption@indent=\dimen146
+\caption@parindent=\dimen147
+\caption@hangindent=\dimen148
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
+lfont \footnotesize {#1.}\nobreakspace \scshape #2}\par \addvspace {0.5\baselin
+eskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptionsepspace \se
+tbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace #2}\ifdim \
+wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}
+\nobreakspace }\parbox [t]{\hsize }{\normalfont \footnotesize \noindent \unhbox
+ \@tempboxa #2}\else \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tem
+pboxa \hfil }\fi \fi .
+\c@ContinuedFloat=\count101
+)
+\c@subfigure=\count102
+\c@subtable=\count103
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen149
+\extrarowheight=\dimen150
+\NC@list=\toks18
+\extratabsurround=\skip45
+\backup@length=\skip46
+))
+
+Package array Warning: Column d is already defined on input line 27.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 143.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
+\TX@col@width=\dimen151
+\TX@old@table=\dimen152
+\TX@old@col=\dimen153
+\TX@target=\dimen154
+\TX@delta=\dimen155
+\TX@cols=\count104
+\TX@ftn=\toks19
+)
+(./bare_conf_compsoc.aux
+
+LaTeX Warning: Label `fig:regsum' multiply defined.
+
+
+LaTeX Warning: Label `fig:hop2' multiply defined.
+
+
+LaTeX Warning: Label `fig:reg' multiply defined.
+
+)
+\openout1 = `bare_conf_compsoc.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+
+-- Lines per column: 58 (exact).
+LaTeX Info: Redefining \microtypecontext on input line 43.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count105
+\scratchdimen=\dimen156
+\scratchbox=\box28
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen157
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 62.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `phv' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.05249> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 77
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 77.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 77.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 84.
+
+
+</home/danai/Documents/ANN_2/images/Report1Exercise2/EpochsR.png, id=1, 707.523
+3pt x 638.8668pt>
+File: /home/danai/Documents/ANN_2/images/Report1Exercise2/EpochsR.png Graphic f
+ile (type png)
+
+<use /home/danai/Documents/ANN_2/images/Report1Exercise2/EpochsR.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/images/Report1Exercise2/Ep
+ochsR.png used on input line 87.
+(pdftex.def)             Requested size: 166.94463pt x 150.73811pt.
+
+</home/danai/Documents/ANN_2/images/Report1Exercise2/neuronsR.png, id=3, 745.82
+64pt x 638.8668pt>
+File: /home/danai/Documents/ANN_2/images/Report1Exercise2/neuronsR.png Graphic 
+file (type png)
+
+<use /home/danai/Documents/ANN_2/images/Report1Exercise2/neuronsR.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/images/Report1Exercise2/ne
+uronsR.png used on input line 91.
+(pdftex.def)             Requested size: 166.94463pt x 142.99796pt.
+
+</home/danai/Documents/ANN_2/images/Report1Exercise2/SamplesR.png, id=4, 746.54
+91pt x 638.8668pt>
+File: /home/danai/Documents/ANN_2/images/Report1Exercise2/SamplesR.png Graphic 
+file (type png)
+
+<use /home/danai/Documents/ANN_2/images/Report1Exercise2/SamplesR.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/images/Report1Exercise2/Sa
+mplesR.png used on input line 95.
+(pdftex.def)             Requested size: 166.94463pt x 142.86148pt.
+
+</home/danai/Documents/ANN_2/images/Report1Exercise2/EpochsTime.png, id=5, 707.
+5233pt x 638.8668pt>
+File: /home/danai/Documents/ANN_2/images/Report1Exercise2/EpochsTime.png Graphi
+c file (type png)
+
+<use /home/danai/Documents/ANN_2/images/Report1Exercise2/EpochsTime.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/images/Report1Exercise2/Ep
+ochsTime.png used on input line 101.
+(pdftex.def)             Requested size: 166.94463pt x 150.73811pt.
+
+</home/danai/Documents/ANN_2/images/Report1Exercise2/neuronsTime.png, id=6, 745
+.8264pt x 638.8668pt>
+File: /home/danai/Documents/ANN_2/images/Report1Exercise2/neuronsTime.png Graph
+ic file (type png)
+
+<use /home/danai/Documents/ANN_2/images/Report1Exercise2/neuronsTime.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/images/Report1Exercise2/ne
+uronsTime.png used on input line 105.
+(pdftex.def)             Requested size: 166.94463pt x 142.99796pt.
+
+</home/danai/Documents/ANN_2/images/Report1Exercise2/SamplesTime.png, id=7, 746
+.5491pt x 638.8668pt>
+File: /home/danai/Documents/ANN_2/images/Report1Exercise2/SamplesTime.png Graph
+ic file (type png)
+
+<use /home/danai/Documents/ANN_2/images/Report1Exercise2/SamplesTime.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/images/Report1Exercise2/Sa
+mplesTime.png used on input line 109.
+(pdftex.def)             Requested size: 166.94463pt x 142.86148pt.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+] [2 </home/danai/Documents/ANN_2/images/Report1Exercise2/EpochsR.png> </home/d
+anai/Documents/ANN_2/images/Report1Exercise2/neuronsR.png> </home/danai/Documen
+ts/ANN_2/images/Report1Exercise2/SamplesR.png> </home/danai/Documents/ANN_2/ima
+ges/Report1Exercise2/EpochsTime.png> </home/danai/Documents/ANN_2/images/Report
+1Exercise2/neuronsTime.png> </home/danai/Documents/ANN_2/images/Report1Exercise
+2/SamplesTime.png>]
+</home/danai/Documents/ANN_2/images/Report1Exercise2/NoisestdR.png, id=28, 698.
+1282pt x 638.8668pt>
+File: /home/danai/Documents/ANN_2/images/Report1Exercise2/NoisestdR.png Graphic
+ file (type png)
+
+<use /home/danai/Documents/ANN_2/images/Report1Exercise2/NoisestdR.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/images/Report1Exercise2/No
+isestdR.png used on input line 145.
+(pdftex.def)             Requested size: 199.16928pt x 182.2544pt.
+
+Underfull \hbox (badness 10000) in alignment at lines 172--172
+[][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 181--181
+ \OT1/ptm/b/n/11.04124 1.2. Func-tion ap-prox-i-ma-tion us-ing feed-for-ward
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 184--185
+\OT1/ptm/m/n/10.03749 (+20) where $\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/
+m/it/10 X\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; X\OT1/cmr/m/n/10 2) = 7\OML/cmm/m/
+it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ;
+ X\OT1/cmr/m/n/10 2) + 5\OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X
+\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; X\OT1/cmr/m/n/10 2) +
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 190.
+
+
+</home/danai/Documents/ANN_2/figures/trains.png, id=29, 462.528pt x 346.896pt>
+File: /home/danai/Documents/ANN_2/figures/trains.png Graphic file (type png)
+
+<use /home/danai/Documents/ANN_2/figures/trains.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/trains.png used on
+ input line 192.
+(pdftex.def)             Requested size: 166.94463pt x 125.21063pt.
+
+</home/danai/Documents/ANN_2/figures/vals.png, id=30, 462.528pt x 346.896pt>
+File: /home/danai/Documents/ANN_2/figures/vals.png Graphic file (type png)
+
+<use /home/danai/Documents/ANN_2/figures/vals.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/vals.png used on i
+nput line 196.
+(pdftex.def)             Requested size: 166.94463pt x 125.21063pt.
+
+</home/danai/Documents/ANN_2/figures/tests.png, id=31, 462.528pt x 346.896pt>
+File: /home/danai/Documents/ANN_2/figures/tests.png Graphic file (type png)
+
+<use /home/danai/Documents/ANN_2/figures/tests.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/tests.png used on 
+input line 200.
+(pdftex.def)             Requested size: 166.94463pt x 125.21063pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 254.
+
+
+</home/danai/Documents/ANN_2/figures/regression.png, id=32, 462.528pt x 346.896
+pt>
+File: /home/danai/Documents/ANN_2/figures/regression.png Graphic file (type png
+)
+ <use /home/danai/Documents/ANN_2/figures/regression.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/regression.png use
+d on input line 257.
+(pdftex.def)             Requested size: 202.3529pt x 151.76662pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 266.
+
+
+</home/danai/Documents/ANN_2/figures/valmse_logsig.png, id=33, 713.3049pt x 650
+.43pt>
+File: /home/danai/Documents/ANN_2/figures/valmse_logsig.png Graphic file (type 
+png)
+ <use /home/danai/Documents/ANN_2/figures/valmse_logsig.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/valmse_logsig.png 
+used on input line 269.
+(pdftex.def)             Requested size: 166.94463pt x 152.2258pt.
+
+</home/danai/Documents/ANN_2/figures/valmse_tansig.png, id=34, 713.3049pt x 650
+.43pt>
+File: /home/danai/Documents/ANN_2/figures/valmse_tansig.png Graphic file (type 
+png)
+ <use /home/danai/Documents/ANN_2/figures/valmse_tansig.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/valmse_tansig.png 
+used on input line 273.
+(pdftex.def)             Requested size: 166.94463pt x 152.2258pt.
+ [3 </home/danai/Documents/ANN_2/images/Report1Exercise2/NoisestdR.png>] [4 </h
+ome/danai/Documents/ANN_2/figures/trains.png> </home/danai/Documents/ANN_2/figu
+res/vals.png> </home/danai/Documents/ANN_2/figures/tests.png> </home/danai/Docu
+ments/ANN_2/figures/regression.png>] [5 </home/danai/Documents/ANN_2/figures/va
+lmse_logsig.png> </home/danai/Documents/ANN_2/figures/valmse_tansig.png>]
+</home/danai/Documents/ANN_2/figures/hop.png, id=56, 462.528pt x 346.896pt>
+File: /home/danai/Documents/ANN_2/figures/hop.png Graphic file (type png)
+
+<use /home/danai/Documents/ANN_2/figures/hop.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/hop.png used on in
+put line 358.
+(pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
+
+</home/danai/Documents/ANN_2/figures/att/1.png, id=57, 236.885pt x 253.94875pt>
+File: /home/danai/Documents/ANN_2/figures/att/1.png Graphic file (type png)
+<use /home/danai/Documents/ANN_2/figures/att/1.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/att/1.png used on 
+input line 366.
+(pdftex.def)             Requested size: 35.416pt x 37.96666pt.
+
+</home/danai/Documents/ANN_2/figures/att/2.jpg, id=58, 236.885pt x 258.9675pt>
+File: /home/danai/Documents/ANN_2/figures/att/2.jpg Graphic file (type jpg)
+
+<use /home/danai/Documents/ANN_2/figures/att/2.jpg>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/att/2.jpg used on 
+input line 370.
+(pdftex.def)             Requested size: 35.416pt x 38.717pt.
+
+</home/danai/Documents/ANN_2/figures/att/3.jpg, id=59, 220.825pt x 253.94875pt>
+File: /home/danai/Documents/ANN_2/figures/att/3.jpg Graphic file (type jpg)
+<use /home/danai/Documents/ANN_2/figures/att/3.jpg>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/att/3.jpg used on 
+input line 374.
+(pdftex.def)             Requested size: 35.416pt x 40.72562pt.
+
+</home/danai/Documents/ANN_2/figures/att/4.jpg, id=60, 214.8025pt x 242.9075pt>
+File: /home/danai/Documents/ANN_2/figures/att/4.jpg Graphic file (type jpg)
+<use /home/danai/Documents/ANN_2/figures/att/4.jpg>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/att/4.jpg used on 
+input line 377.
+(pdftex.def)             Requested size: 35.416pt x 40.04834pt.
+
+</home/danai/Documents/ANN_2/figures/att/5.jpg, id=61, 231.86626pt x 248.93pt>
+File: /home/danai/Documents/ANN_2/figures/att/5.jpg Graphic file (type jpg)
+
+<use /home/danai/Documents/ANN_2/figures/att/5.jpg>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/att/5.jpg used on 
+input line 380.
+(pdftex.def)             Requested size: 35.416pt x 38.02159pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 390.
+
+
+</home/danai/Documents/ANN_2/figures/hop/correct_retrivals100.png, id=62, 414.8
+298pt x 361.35pt>
+File: /home/danai/Documents/ANN_2/figures/hop/correct_retrivals100.png Graphic 
+file (type png)
+
+<use /home/danai/Documents/ANN_2/figures/hop/correct_retrivals100.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/hop/correct_retriv
+als100.png used on input line 393.
+(pdftex.def)             Requested size: 151.76854pt x 132.19766pt.
+
+</home/danai/Documents/ANN_2/figures/hop/incorrect_retrivals100.png, id=63, 414
+.8298pt x 361.35pt>
+File: /home/danai/Documents/ANN_2/figures/hop/incorrect_retrivals100.png Graphi
+c file (type png)
+
+<use /home/danai/Documents/ANN_2/figures/hop/incorrect_retrivals100.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/hop/incorrect_retr
+ivals100.png used on input line 397.
+(pdftex.def)             Requested size: 151.76854pt x 132.19766pt.
+
+</home/danai/Documents/ANN_2/figures/hop/Failed_retrivals100.png, id=64, 414.82
+98pt x 361.35pt>
+File: /home/danai/Documents/ANN_2/figures/hop/Failed_retrivals100.png Graphic f
+ile (type png)
+
+<use /home/danai/Documents/ANN_2/figures/hop/Failed_retrivals100.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/hop/Failed_retriva
+ls100.png used on input line 401.
+(pdftex.def)             Requested size: 151.76854pt x 132.19766pt.
+ [6 </home/danai/Documents/ANN_2/figures/hop.png> </home/danai/Documents/ANN_2/
+figures/att/1.png> </home/danai/Documents/ANN_2/figures/att/2.jpg> </home/danai
+/Documents/ANN_2/figures/att/3.jpg> </home/danai/Documents/ANN_2/figures/att/4.
+jpg> </home/danai/Documents/ANN_2/figures/att/5.jpg>]
+</home/danai/Documents/ANN_2/figures/timeseries/LSTM_10_200_.png, id=71, 462.52
+8pt x 346.896pt>
+File: /home/danai/Documents/ANN_2/figures/timeseries/LSTM_10_200_.png Graphic f
+ile (type png)
+
+<use /home/danai/Documents/ANN_2/figures/timeseries/LSTM_10_200_.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/timeseries/LSTM_10
+_200_.png used on input line 441.
+(pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
+
+</home/danai/Documents/ANN_2/figures/timeseries/LSTM_40_100_.png, id=72, 462.52
+8pt x 346.896pt>
+File: /home/danai/Documents/ANN_2/figures/timeseries/LSTM_40_100_.png Graphic f
+ile (type png)
+
+<use /home/danai/Documents/ANN_2/figures/timeseries/LSTM_40_100_.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/timeseries/LSTM_40
+_100_.png used on input line 444.
+(pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 453.
+
+</home/danai/Documents/ANN_2/figures/50.png, id=73, 462.528pt x 346.896pt>
+File: /home/danai/Documents/ANN_2/figures/50.png Graphic file (type png)
+
+<use /home/danai/Documents/ANN_2/figures/50.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/50.png used on inp
+ut line 455.
+(pdftex.def)             Requested size: 166.94463pt x 125.21063pt.
+
+</home/danai/Documents/ANN_2/figures/100.png, id=74, 462.528pt x 346.896pt>
+File: /home/danai/Documents/ANN_2/figures/100.png Graphic file (type png)
+
+<use /home/danai/Documents/ANN_2/figures/100.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/100.png used on in
+put line 459.
+(pdftex.def)             Requested size: 166.94463pt x 125.21063pt.
+
+</home/danai/Documents/ANN_2/figures/200.png, id=75, 462.528pt x 346.896pt>
+File: /home/danai/Documents/ANN_2/figures/200.png Graphic file (type png)
+
+<use /home/danai/Documents/ANN_2/figures/200.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/200.png used on in
+put line 463.
+(pdftex.def)             Requested size: 166.94463pt x 125.21063pt.
+
+</home/danai/Documents/ANN_2/figures/mlpsunits.png, id=76, 462.528pt x 346.896p
+t>
+File: /home/danai/Documents/ANN_2/figures/mlpsunits.png Graphic file (type png)
+
+ <use /home/danai/Documents/ANN_2/figures/mlpsunits.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/mlpsunits.png used
+ on input line 469.
+(pdftex.def)             Requested size: 170.71652pt x 128.0372pt.
+
+</home/danai/Documents/ANN_2/figures/LSTMsunits.png, id=77, 462.528pt x 346.896
+pt>
+File: /home/danai/Documents/ANN_2/figures/LSTMsunits.png Graphic file (type png
+)
+ <use /home/danai/Documents/ANN_2/figures/LSTMsunits.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/LSTMsunits.png use
+d on input line 472.
+(pdftex.def)             Requested size: 170.71652pt x 128.0372pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 </home/danai/Documents/ANN_2/figures/hop/correct_retrivals100.png> </home/d
+anai/Documents/ANN_2/figures/hop/incorrect_retrivals100.png> </home/danai/Docum
+ents/ANN_2/figures/hop/Failed_retrivals100.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 </home/danai/Documents/ANN_2/figures/timeseries/LSTM_10_200_.png> </home/da
+nai/Documents/ANN_2/figures/timeseries/LSTM_40_100_.png> </home/danai/Documents
+/ANN_2/figures/50.png> </home/danai/Documents/ANN_2/figures/100.png> </home/dan
+ai/Documents/ANN_2/figures/200.png> </home/danai/Documents/ANN_2/figures/mlpsun
+its.png> </home/danai/Documents/ANN_2/figures/LSTMsunits.png>]
+</home/danai/Documents/ANN_2/figures/mean.png, id=95, 269.5671pt x 273.1806pt>
+File: /home/danai/Documents/ANN_2/figures/mean.png Graphic file (type png)
+
+<use /home/danai/Documents/ANN_2/figures/mean.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/mean.png used on i
+nput line 518.
+(pdftex.def)             Requested size: 35.416pt x 35.88988pt.
+
+</home/danai/Documents/ANN_2/figures/eigenvectors_0.png, id=96, 267.399pt x 266
+.6763pt>
+File: /home/danai/Documents/ANN_2/figures/eigenvectors_0.png Graphic file (type
+ png)
+ <use /home/danai/Documents/ANN_2/figures/eigenvectors_0.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/eigenvectors_0.png
+ used on input line 522.
+(pdftex.def)             Requested size: 35.416pt x 35.32019pt.
+
+</home/danai/Documents/ANN_2/figures/eigenvectors_1.png, id=97, 268.8444pt x 26
+5.9536pt>
+File: /home/danai/Documents/ANN_2/figures/eigenvectors_1.png Graphic file (type
+ png)
+ <use /home/danai/Documents/ANN_2/figures/eigenvectors_1.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/eigenvectors_1.png
+ used on input line 526.
+(pdftex.def)             Requested size: 35.416pt x 35.03374pt.
+
+</home/danai/Documents/ANN_2/figures/eigenvectors_2.png, id=98, 267.399pt x 266
+.6763pt>
+File: /home/danai/Documents/ANN_2/figures/eigenvectors_2.png Graphic file (type
+ png)
+ <use /home/danai/Documents/ANN_2/figures/eigenvectors_2.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/eigenvectors_2.png
+ used on input line 530.
+(pdftex.def)             Requested size: 35.416pt x 35.32019pt.
+
+</home/danai/Documents/ANN_2/figures/eigenvectors_3.png, id=99, 268.1217pt x 26
+5.9536pt>
+File: /home/danai/Documents/ANN_2/figures/eigenvectors_3.png Graphic file (type
+ png)
+ <use /home/danai/Documents/ANN_2/figures/eigenvectors_3.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/eigenvectors_3.png
+ used on input line 534.
+(pdftex.def)             Requested size: 35.416pt x 35.12708pt.
+
+</home/danai/Documents/ANN_2/figures/rec/4.png, id=100, 73.7154pt x 75.1608pt>
+File: /home/danai/Documents/ANN_2/figures/rec/4.png Graphic file (type png)
+
+<use /home/danai/Documents/ANN_2/figures/rec/4.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/rec/4.png used on 
+input line 539.
+(pdftex.def)             Requested size: 35.416pt x 36.11002pt.
+
+</home/danai/Documents/ANN_2/figures/rec/20.png, id=101, 73.7154pt x 74.4381pt>
+File: /home/danai/Documents/ANN_2/figures/rec/20.png Graphic file (type png)
+<use /home/danai/Documents/ANN_2/figures/rec/20.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/rec/20.png used on
+ input line 543.
+(pdftex.def)             Requested size: 35.416pt x 35.7628pt.
+
+</home/danai/Documents/ANN_2/figures/rec/80.png, id=102, 72.9927pt x 74.4381pt>
+File: /home/danai/Documents/ANN_2/figures/rec/80.png Graphic file (type png)
+<use /home/danai/Documents/ANN_2/figures/rec/80.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/rec/80.png used on
+ input line 547.
+(pdftex.def)             Requested size: 35.416pt x 36.11719pt.
+
+</home/danai/Documents/ANN_2/figures/rec/256.png, id=103, 75.8835pt x 73.7154pt
+>
+File: /home/danai/Documents/ANN_2/figures/rec/256.png Graphic file (type png)
+ <use /home/danai/Documents/ANN_2/figures/rec/256.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/rec/256.png used o
+n input line 551.
+(pdftex.def)             Requested size: 35.416pt x 34.40326pt.
+
+</home/danai/Documents/ANN_2/figures/pcaloss.png, id=104, 462.528pt x 346.896pt
+>
+File: /home/danai/Documents/ANN_2/figures/pcaloss.png Graphic file (type png)
+ <use /home/danai/Documents/ANN_2/figures/pcaloss.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/pcaloss.png used o
+n input line 560.
+(pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
+
+</home/danai/Documents/ANN_2/figures/variance.png, id=105, 462.528pt x 346.896p
+t>
+File: /home/danai/Documents/ANN_2/figures/variance.png Graphic file (type png)
+ <use /home/danai/Documents/ANN_2/figures/variance.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/variance.png used 
+on input line 563.
+(pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--565
+[]$[]$
+ []
+
+[9]
+Underfull \vbox (badness 1924) has occurred while \output is active []
+
+ [10 </home/danai/Documents/ANN_2/figures/mean.png> </home/danai/Documents/ANN_
+2/figures/eigenvectors_0.png> </home/danai/Documents/ANN_2/figures/eigenvectors
+_1.png> </home/danai/Documents/ANN_2/figures/eigenvectors_2.png> </home/danai/D
+ocuments/ANN_2/figures/eigenvectors_3.png> </home/danai/Documents/ANN_2/figures
+/rec/4.png> </home/danai/Documents/ANN_2/figures/rec/20.png> </home/danai/Docum
+ents/ANN_2/figures/rec/80.png> </home/danai/Documents/ANN_2/figures/rec/256.png
+> </home/danai/Documents/ANN_2/figures/pcaloss.png> </home/danai/Documents/ANN_
+2/figures/variance.png>]
+</home/danai/Documents/ANN_2/figures/filters.png, id=123, 2196.205pt x 807.015p
+t>
+File: /home/danai/Documents/ANN_2/figures/filters.png Graphic file (type png)
+ <use /home/danai/Documents/ANN_2/figures/filters.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/filters.png used o
+n input line 672.
+(pdftex.def)             Requested size: 505.89pt x 185.89276pt.
+ [11] [12 </home/danai/Documents/ANN_2/figures/filters.png (PNG copy)>]
+</home/danai/Documents/ANN_2/figures/un1.jpg, id=130, 74.2775pt x 70.2625pt>
+File: /home/danai/Documents/ANN_2/figures/un1.jpg Graphic file (type jpg)
+
+<use /home/danai/Documents/ANN_2/figures/un1.jpg>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/un1.jpg used on in
+put line 849.
+(pdftex.def)             Requested size: 35.416pt x 33.50261pt.
+
+</home/danai/Documents/ANN_2/figures/un2.jpg, id=131, 74.2775pt x 73.27374pt>
+File: /home/danai/Documents/ANN_2/figures/un2.jpg Graphic file (type jpg)
+
+<use /home/danai/Documents/ANN_2/figures/un2.jpg>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/un2.jpg used on in
+put line 853.
+(pdftex.def)             Requested size: 35.416pt x 34.93842pt.
+
+</home/danai/Documents/ANN_2/figures/un3.jpg, id=132, 74.2775pt x 71.26625pt>
+File: /home/danai/Documents/ANN_2/figures/un3.jpg Graphic file (type jpg)
+
+<use /home/danai/Documents/ANN_2/figures/un3.jpg>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/un3.jpg used on in
+put line 857.
+(pdftex.def)             Requested size: 35.416pt x 33.9812pt.
+
+</home/danai/Documents/ANN_2/figures/over.png, id=133, 269.005pt x 112.42pt>
+File: /home/danai/Documents/ANN_2/figures/over.png Graphic file (type png)
+
+<use /home/danai/Documents/ANN_2/figures/over.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/over.png used on i
+nput line 869.
+(pdftex.def)             Requested size: 227.62204pt x 95.12688pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 901.
+
+
+</home/danai/Documents/ANN_2/figures/dpm/shallow.png, id=134, 579.16376pt x 613
+.29124pt>
+File: /home/danai/Documents/ANN_2/figures/dpm/shallow.png Graphic file (type pn
+g)
+ <use /home/danai/Documents/ANN_2/figures/dpm/shallow.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/dpm/shallow.png us
+ed on input line 904.
+(pdftex.def)             Requested size: 151.76854pt x 160.70593pt.
+
+</home/danai/Documents/ANN_2/figures/dpm/deep.png, id=135, 579.16376pt x 613.29
+124pt>
+File: /home/danai/Documents/ANN_2/figures/dpm/deep.png Graphic file (type png)
+ <use /home/danai/Documents/ANN_2/figures/dpm/deep.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/dpm/deep.png used 
+on input line 908.
+(pdftex.def)             Requested size: 151.76854pt x 160.70593pt.
+ [13 </home/danai/Documents/ANN_2/figures/un1.jpg> </home/danai/Documents/ANN_2
+/figures/un2.jpg> </home/danai/Documents/ANN_2/figures/un3.jpg> </home/danai/Do
+cuments/ANN_2/figures/over.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 936.
+
+</home/danai/Documents/ANN_2/figures/accs.png, id=143, 462.528pt x 346.896pt>
+File: /home/danai/Documents/ANN_2/figures/accs.png Graphic file (type png)
+
+<use /home/danai/Documents/ANN_2/figures/accs.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/accs.png used on i
+nput line 939.
+(pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
+ [14 </home/danai/Documents/ANN_2/figures/dpm/shallow.png> </home/danai/Documen
+ts/ANN_2/figures/dpm/deep.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 951.
+
+</home/danai/Documents/ANN_2/figures/horse.png, id=149, 939.51pt x 501.875pt>
+File: /home/danai/Documents/ANN_2/figures/horse.png Graphic file (type png)
+
+<use /home/danai/Documents/ANN_2/figures/horse.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/horse.png used on 
+input line 954.
+(pdftex.def)             Requested size: 455.24408pt x 243.187pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 972.
+
+</home/danai/Documents/ANN_2/figures/op.png, id=150, 570.13pt x 281.05pt>
+File: /home/danai/Documents/ANN_2/figures/op.png Graphic file (type png)
+
+<use /home/danai/Documents/ANN_2/figures/op.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/op.png used on inp
+ut line 975.
+(pdftex.def)             Requested size: 252.94499pt x 124.6916pt.
+
+Underfull \vbox (badness 4144) has occurred while \output is active []
+
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 992.
+
+
+</home/danai/Documents/ANN_2/figures/gans/minmax.png, id=151, 379.4175pt x 202.
+7575pt>
+File: /home/danai/Documents/ANN_2/figures/gans/minmax.png Graphic file (type pn
+g)
+ <use /home/danai/Documents/ANN_2/figures/gans/minmax.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/gans/minmax.png us
+ed on input line 996.
+(pdftex.def)             Requested size: 202.3529pt x 108.1385pt.
+
+</home/danai/Documents/ANN_2/figures/gans/wgan.png, id=152, 379.4175pt x 202.75
+75pt>
+File: /home/danai/Documents/ANN_2/figures/gans/wgan.png Graphic file (type png)
+
+ <use /home/danai/Documents/ANN_2/figures/gans/wgan.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/gans/wgan.png used
+ on input line 1000.
+(pdftex.def)             Requested size: 202.3529pt x 108.1385pt.
+
+(./bare_conf_compsoc.bbl) [15 </home/danai/Documents/ANN_2/figures/accs.png>]
+[16 </home/danai/Documents/ANN_2/figures/horse.png (PNG copy)> </home/danai/Doc
+uments/ANN_2/figures/op.png> </home/danai/Documents/ANN_2/figures/gans/minmax.p
+ng> </home/danai/Documents/ANN_2/figures/gans/wgan.png>] [17
+
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 1043.
+
+
+</home/danai/Documents/ANN_2/figures/Regression_3_layers50.png, id=166, 1084.05
+pt x 867.24pt>
+File: /home/danai/Documents/ANN_2/figures/Regression_3_layers50.png Graphic fil
+e (type png)
+
+<use /home/danai/Documents/ANN_2/figures/Regression_3_layers50.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/Regression_3_layer
+s50.png used on input line 1047.
+(pdftex.def)             Requested size: 166.94463pt x 133.54742pt.
+
+</home/danai/Documents/ANN_2/figures/Regression_3_layers100.png, id=167, 1084.0
+5pt x 867.24pt>
+File: /home/danai/Documents/ANN_2/figures/Regression_3_layers100.png Graphic fi
+le (type png)
+
+<use /home/danai/Documents/ANN_2/figures/Regression_3_layers100.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/Regression_3_layer
+s100.png used on input line 1051.
+(pdftex.def)             Requested size: 166.94463pt x 133.54742pt.
+
+</home/danai/Documents/ANN_2/figures/Regression_3_layers200.png, id=168, 1084.0
+5pt x 867.24pt>
+File: /home/danai/Documents/ANN_2/figures/Regression_3_layers200.png Graphic fi
+le (type png)
+
+<use /home/danai/Documents/ANN_2/figures/Regression_3_layers200.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/Regression_3_layer
+s200.png used on input line 1055.
+(pdftex.def)             Requested size: 166.94463pt x 133.54742pt.
+
+</home/danai/Documents/ANN_2/figures/3_layers50.png, id=169, 462.528pt x 346.89
+6pt>
+File: /home/danai/Documents/ANN_2/figures/3_layers50.png Graphic file (type png
+)
+ <use /home/danai/Documents/ANN_2/figures/3_layers50.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/3_layers50.png use
+d on input line 1061.
+(pdftex.def)             Requested size: 166.94463pt x 125.21063pt.
+
+</home/danai/Documents/ANN_2/figures/3_layers100.png, id=170, 462.528pt x 346.8
+96pt>
+File: /home/danai/Documents/ANN_2/figures/3_layers100.png Graphic file (type pn
+g)
+ <use /home/danai/Documents/ANN_2/figures/3_layers100.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/3_layers100.png us
+ed on input line 1065.
+(pdftex.def)             Requested size: 166.94463pt x 125.21063pt.
+
+</home/danai/Documents/ANN_2/figures/3_layers200.png, id=171, 462.528pt x 346.8
+96pt>
+File: /home/danai/Documents/ANN_2/figures/3_layers200.png Graphic file (type pn
+g)
+ <use /home/danai/Documents/ANN_2/figures/3_layers200.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/3_layers200.png us
+ed on input line 1069.
+(pdftex.def)             Requested size: 166.94463pt x 125.21063pt.
+
+</home/danai/Documents/ANN_2/figures/optimizers_train.png, id=172, 462.528pt x 
+346.896pt>
+File: /home/danai/Documents/ANN_2/figures/optimizers_train.png Graphic file (ty
+pe png)
+ <use /home/danai/Documents/ANN_2/figures/optimizers_train.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/optimizers_train.p
+ng used on input line 1083.
+(pdftex.def)             Requested size: 170.71652pt x 128.0372pt.
+
+</home/danai/Documents/ANN_2/figures/optimizers_tval.png, id=173, 462.528pt x 3
+46.896pt>
+File: /home/danai/Documents/ANN_2/figures/optimizers_tval.png Graphic file (typ
+e png)
+ <use /home/danai/Documents/ANN_2/figures/optimizers_tval.png>
+Package pdftex.def Info: /home/danai/Documents/ANN_2/figures/optimizers_tval.pn
+g used on input line 1086.
+(pdftex.def)             Requested size: 170.71652pt x 128.0372pt.
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[18 </home/danai/Documents/ANN_2/figures/Regression_3_layers50.png> </home/dana
+i/Documents/ANN_2/figures/Regression_3_layers100.png> </home/danai/Documents/AN
+N_2/figures/Regression_3_layers200.png> </home/danai/Documents/ANN_2/figures/3_
+layers50.png> </home/danai/Documents/ANN_2/figures/3_layers100.png> </home/dana
+i/Documents/ANN_2/figures/3_layers200.png> </home/danai/Documents/ANN_2/figures
+/optimizers_train.png> </home/danai/Documents/ANN_2/figures/optimizers_tval.png
+>] (./bare_conf_compsoc.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred when \iftrue on line 38 was incomplete) 
+Here is how much of TeX's memory you used:
+ 6247 strings out of 494835
+ 113650 string characters out of 6178235
+ 201697 words of memory out of 5000000
+ 9210 multiletter control sequences out of 15000+600000
+ 52876 words of font info for 204 fonts, out of 8000000 for 9000
+ 84 hyphenation exceptions out of 8191
+ 42i,13n,40p,1543b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf
+-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8
+a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on bare_conf_compsoc.pdf (18 pages, 2577733 bytes).
+PDF statistics:
+ 231 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 30509 words of extra memory for PDF output out of 35830 (max. 10000000)
+
